@@ -1,0 +1,32 @@
+body{
+    background:url("image.png");
+    background-repeat: no-repeat;
+    background-size: 1300px;
+    position: fixed;
+}
+    .container{
+background-color:rgba(238, 91, 182, 0.863);
+width: 400px;
+height: 300px;
+margin:80px 0px 0px 400px ;
+border-radius:10px ;
+box-shadow: 5px 5px  6px 7px;
+}
+.text{
+     padding: 40px 40px 50px 20px; 
+    text-align: center;
+ }
+ p{
+    padding-top:20px;
+    font-style: italic;
+    font-size: 20px;
+ }
+button{
+    margin-left:250px;
+    margin-bottom: 30px;
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}
